@@ -1,0 +1,626 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-17",
+  "resources": [
+    {
+      "id": "attachable",
+      "destination": "dev_tools/external/blockbench-bedrock-attachable",
+      "kind": "zip",
+      "repository": "https://github.com/Dofes/blockbench-bedrock-attachable",
+      "revision": "0dbcc4919b2152f81606a7a1bb4e11b292e0ceac",
+      "license": {
+        "spdx": "Apache-2.0",
+        "status": "verified",
+        "url": "https://github.com/Dofes/blockbench-bedrock-attachable/blob/0dbcc4919b2152f81606a7a1bb4e11b292e0ceac/LICENSE"
+      },
+      "auto_fetch": true,
+      "url": "https://codeload.github.com/Dofes/blockbench-bedrock-attachable/zip/0dbcc4919b2152f81606a7a1bb4e11b292e0ceac",
+      "archive_sha256": "43a997ef3f6f7e7692ad3a2e2b98c13b66b4c3666f881a4fb5571a8ef06f4fe9",
+      "download_bytes": 187625,
+      "primary": "plugins/bedrock_attachable/bedrock_attachable.js",
+      "files": [
+        {
+          "path": ".gitignore",
+          "bytes": 41,
+          "sha256": "d547f07ccdf7894ea410ab8bb7d49eedf994f02ab143939e5c35c314148cccb6"
+        },
+        {
+          "path": "LICENSE",
+          "bytes": 11358,
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        },
+        {
+          "path": "README.md",
+          "bytes": 920,
+          "sha256": "099b1701b835c95011370f902b7c932d09474ef007f5fe3a35832897def7cc44"
+        },
+        {
+          "path": "assets/1.png",
+          "bytes": 34062,
+          "sha256": "f6269576d933ddd5976dc276ec1411e0ab9a45d2b60f36dcec124ec75ced9c02"
+        },
+        {
+          "path": "assets/2.png",
+          "bytes": 143842,
+          "sha256": "c57178c30671996a10619be205e362a428c6c7f638b86bb2aa4975853b678f10"
+        },
+        {
+          "path": "package.json",
+          "bytes": 172,
+          "sha256": "5158f65982667041a44ed2f5983d33d6412ca48443f72e3e912315d1e8561456"
+        },
+        {
+          "path": "plugins/bedrock_attachable/about.md",
+          "bytes": 340,
+          "sha256": "2d4216fcbcef97fa0cd233d19e8521a30fbaf9b9c2e9a5c791c652bbf2199415"
+        },
+        {
+          "path": "plugins/bedrock_attachable/bedrock_attachable.js",
+          "bytes": 68612,
+          "sha256": "f1f91d16fcdac18b36d1938ab20ebe541397256f1dcb68d138dc9892cf478915"
+        }
+      ]
+    },
+    {
+      "id": "blockbench",
+      "destination": "dev_tools/external/Blockbench",
+      "kind": "files",
+      "repository": "https://github.com/JannisX11/blockbench",
+      "revision": "v5.2.1",
+      "auto_fetch": true,
+      "license": {
+        "spdx": "GPL-3.0",
+        "status": "verified",
+        "url": "https://raw.githubusercontent.com/JannisX11/blockbench/v5.2.1/LICENSE.MD"
+      },
+      "primary": "Blockbench_5.2.1_portable.exe",
+      "files": [
+        {
+          "path": "Blockbench_5.2.1_portable.exe",
+          "bytes": 97002768,
+          "sha256": "0ed7f2465570431b999adc4e4626a21d573d6347aebd2ba7e506d3093602f60f",
+          "url": "https://github.com/JannisX11/blockbench/releases/download/v5.2.1/Blockbench_5.2.1_portable.exe"
+        },
+        {
+          "path": "LICENSE.MD",
+          "bytes": 35148,
+          "sha256": "8b1ba204bb69a0ade2bfcf65ef294a920f6bb361b317dba43c7ef29d96332b9b",
+          "url": "https://raw.githubusercontent.com/JannisX11/blockbench/v5.2.1/LICENSE.MD"
+        }
+      ]
+    },
+    {
+      "id": "modeling",
+      "destination": "dev_tools/external/blockbench-netease-modeling",
+      "kind": "zip",
+      "repository": "https://github.com/Dofes/blockbench-netease-modeling",
+      "revision": "a9e615bdd84877c48e48fd4f29ac347fc88a48ea",
+      "license": {
+        "spdx": "Apache-2.0",
+        "status": "verified",
+        "url": "https://github.com/Dofes/blockbench-netease-modeling/blob/a9e615bdd84877c48e48fd4f29ac347fc88a48ea/LICENSE"
+      },
+      "auto_fetch": true,
+      "url": "https://codeload.github.com/Dofes/blockbench-netease-modeling/zip/a9e615bdd84877c48e48fd4f29ac347fc88a48ea",
+      "archive_sha256": "d4723b871859c6a8906395508e6bb0fe08e2556ba0d36b9e7f27e02a46c94840",
+      "download_bytes": 328133,
+      "primary": "plugins/netease_modeling/netease_modeling.js",
+      "files": [
+        {
+          "path": ".gitignore",
+          "bytes": 41,
+          "sha256": "d547f07ccdf7894ea410ab8bb7d49eedf994f02ab143939e5c35c314148cccb6"
+        },
+        {
+          "path": "LICENSE",
+          "bytes": 11358,
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        },
+        {
+          "path": "README.md",
+          "bytes": 988,
+          "sha256": "1a9ba1d0280a2b424892b17cf92709a201176e71df79e750f063f08bf6049208"
+        },
+        {
+          "path": "assets/1.png",
+          "bytes": 227823,
+          "sha256": "2a8b117e035869cedc20b59fc99eed80bfaf1a7627f4b5a75542308f0a2a39e0"
+        },
+        {
+          "path": "assets/2.png",
+          "bytes": 17621,
+          "sha256": "636bbb688c986ebbf2ab563b367ecb92aba4fcee2682967f022c8f5473177f0c"
+        },
+        {
+          "path": "assets/3.png",
+          "bytes": 30760,
+          "sha256": "de6317a60f028edc5e8d7228453ec6d634a848581f90762f669e1e1b6213004f"
+        },
+        {
+          "path": "assets/4.png",
+          "bytes": 26510,
+          "sha256": "66963b896c713e3d49e954019a6acd13abd1a2011eaada420d67db3942c8a051"
+        },
+        {
+          "path": "package.json",
+          "bytes": 239,
+          "sha256": "74d0a6085f66ceaac0acc1bf171629fae31e1235467006218ec876e125bbe090"
+        },
+        {
+          "path": "plugins/netease_modeling/about.md",
+          "bytes": 674,
+          "sha256": "4991e57306683925fafd208c6922c18d04db0fc9b92e362286db22c81e59fe47"
+        },
+        {
+          "path": "plugins/netease_modeling/netease_modeling.js",
+          "bytes": 113446,
+          "sha256": "d7f2e1f60bf85f994ae26de7047ccfa57fdbcc25b6e576203d396e19cb89a09a"
+        },
+        {
+          "path": "plugins/netease_modeling/test/run_tests.cjs",
+          "bytes": 71003,
+          "sha256": "d444f9bb7588f958ffbcbb332cf8a0e9c314e19f146e7025ec217cacf41ab55e"
+        }
+      ]
+    },
+    {
+      "id": "modpc",
+      "destination": "dev_tools/external/ModPC-MCP-Tool",
+      "kind": "zip",
+      "repository": "https://github.com/MCNeteaseDevs/ModPC-MCP-Tool",
+      "revision": "80f2abe9391985fe10b600538a8d7447216f6bea",
+      "license": {
+        "spdx": null,
+        "status": "redistribution-unverified-local-use-instructions",
+        "url": "https://github.com/MCNeteaseDevs/ModPC-MCP-Tool"
+      },
+      "auto_fetch": true,
+      "url": "https://codeload.github.com/MCNeteaseDevs/ModPC-MCP-Tool/zip/80f2abe9391985fe10b600538a8d7447216f6bea",
+      "archive_sha256": "1b67170ebeb4df7928d01da65f6e03b5c1a212be2487f14b8b98981d2adbd473",
+      "download_bytes": 16109,
+      "primary": "server.py",
+      "files": [
+        {
+          "path": ".gitignore",
+          "bytes": 13,
+          "sha256": "e4945195862caadff2b7a885befce16ea87615351032ac28e96c08b85ce5191f"
+        },
+        {
+          "path": "README.md",
+          "bytes": 4313,
+          "sha256": "68a2a05faca6d9e6a8362aa5115e66f449e959b715c43b74af1ad0e69efcad17"
+        },
+        {
+          "path": "__init__.py",
+          "bytes": 36,
+          "sha256": "e2c8e6f2b5747958aafc85ef8b010d157523567f6db03910fbeca4d74e96a5e2"
+        },
+        {
+          "path": "agent_system_prompt.md",
+          "bytes": 14419,
+          "sha256": "c181d55ff8bab028b7f15375fe12e361f9fa3d2a25ccdaa6821f3bc935432d27"
+        },
+        {
+          "path": "game_client.py",
+          "bytes": 9867,
+          "sha256": "2a5bf4da8346ab2d1f20ef0753178881f2d595ac86ca59fcc208d50466395cf6"
+        },
+        {
+          "path": "requirements.txt",
+          "bytes": 44,
+          "sha256": "4bc5280ef15f74cc76658c2d2dbfdefd7e20a7d53a8a4bfd2a5e2d4359345d5c"
+        },
+        {
+          "path": "server.py",
+          "bytes": 11929,
+          "sha256": "2de0a1a47e3c2d2a7dc26eaf6e2d3ae0781e148840b0d6d450162ba8f384d81a"
+        }
+      ],
+      "local_use_basis": {
+        "kind": "upstream-installation-instructions",
+        "source": "https://github.com/MCNeteaseDevs/ModPC-MCP-Tool/blob/80f2abe9391985fe10b600538a8d7447216f6bea/README.md",
+        "redistribution_granted": false,
+        "note": "Upstream README explicitly describes installation and use. Fetch to the user machine only; no open-source license or permission to redistribute is asserted."
+      }
+    },
+    {
+      "id": "pixel",
+      "destination": "dev_tools/external/PixelArtConverter",
+      "kind": "zip",
+      "repository": "https://github.com/ahmetolcum/PixelArtConverter",
+      "revision": "e6fac947bfdebec3b5e12a7856f95997a934ac07",
+      "license": {
+        "spdx": "MIT",
+        "status": "verified",
+        "url": "https://github.com/ahmetolcum/PixelArtConverter/blob/e6fac947bfdebec3b5e12a7856f95997a934ac07/LICENSE"
+      },
+      "auto_fetch": true,
+      "url": "https://codeload.github.com/ahmetolcum/PixelArtConverter/zip/e6fac947bfdebec3b5e12a7856f95997a934ac07",
+      "archive_sha256": "9c4fc1be61448d60362cc2e8de7dcd8bdc9d3d4a85990dc762febbbf764ba8bc",
+      "download_bytes": 8820695,
+      "primary": "core.py",
+      "files": [
+        {
+          "path": ".github/workflows/release.yml",
+          "bytes": 3899,
+          "sha256": "c166a52565d7678b0ea69b4afa417538b2c910371997c0bb5bf26212f7ce8743"
+        },
+        {
+          "path": ".gitignore",
+          "bytes": 422,
+          "sha256": "9b5c0f54d818999417595db524392996f5e674263f2f00067d4b3bc323d91fe9"
+        },
+        {
+          "path": "LICENSE",
+          "bytes": 1068,
+          "sha256": "dc379d7d1178e90301b2541997c0d782cc833d633c5a23784c6e8e0d4896e53d"
+        },
+        {
+          "path": "README.md",
+          "bytes": 19110,
+          "sha256": "f5af3683622a78d6d287053c6b1d7f588af62cdae6cd4c48daf7f9bd9b5538df"
+        },
+        {
+          "path": "build_dmg.sh",
+          "bytes": 8345,
+          "sha256": "16609490530366ef199572f501dcddc0f53cb047cc2d6a0be372c7cf967d7894"
+        },
+        {
+          "path": "core.py",
+          "bytes": 43954,
+          "sha256": "dc79a615a838f314124cba674fefb2fb79ef4c4dfa5bc4d9b3604eb823001bc1"
+        },
+        {
+          "path": "docs/AppIcon.icon/Assets/icon-simple-mage Background Removed.png",
+          "bytes": 570806,
+          "sha256": "8deef77ee9eecd21049215245f0629535a7f7d165fe23e32549446ca38cdb5c0"
+        },
+        {
+          "path": "docs/AppIcon.icon/icon.json",
+          "bytes": 1040,
+          "sha256": "988cd01858d1070ffaf6e7734c45bb462e19f1c37584f1099de1b329ec9f74a8"
+        },
+        {
+          "path": "docs/LOGO_PROMPT.md",
+          "bytes": 5230,
+          "sha256": "b305aa713e662de316eb0730a29ad34ccfe1eb5e026acedd05c28168601b8e30"
+        },
+        {
+          "path": "docs/compiled-icons/AppIcon.icns",
+          "bytes": 77138,
+          "sha256": "e8821134791ca1195596cdb137b8c6c249a5c21f496874c2bec23a3ce831e4ec"
+        },
+        {
+          "path": "docs/compiled-icons/Assets.car",
+          "bytes": 2707880,
+          "sha256": "f8456509f0013143a2984be29b437de1d40d00e7d43549d402dc8d386bae6399"
+        },
+        {
+          "path": "docs/icon-background.png",
+          "bytes": 875025,
+          "sha256": "e14bd72eaf02dc595e3a482a5a6fc5b4d60e084a18c143d024de6c5fb32ce8f5"
+        },
+        {
+          "path": "docs/icon-clear.png",
+          "bytes": 874676,
+          "sha256": "2e9664c034739c46b3d395ebc83be14c415691bef2bf513c2f9d649a481ac6ee"
+        },
+        {
+          "path": "docs/icon-dark.png",
+          "bytes": 56831,
+          "sha256": "9aea97158b388fe67cc88327cbe6a83cc20d0cbfebefc7776fd8e75bdac8dcd7"
+        },
+        {
+          "path": "docs/icon-foreground.png",
+          "bytes": 870186,
+          "sha256": "fe1922a8771163420df1c25cfdd097e887199ea572e3e78646ab09a3bbc2de22"
+        },
+        {
+          "path": "docs/icon-tinted.png",
+          "bytes": 29832,
+          "sha256": "9a75f13049e127ce1596f477cae3cefdb9f0134245fd1aa0fedfb1b05e627d20"
+        },
+        {
+          "path": "docs/icon.png",
+          "bytes": 56831,
+          "sha256": "9aea97158b388fe67cc88327cbe6a83cc20d0cbfebefc7776fd8e75bdac8dcd7"
+        },
+        {
+          "path": "docs/logo-dark.png",
+          "bytes": 54382,
+          "sha256": "cbdcb30ab35f5a3726baea8646a0b7fb128cbce8cf3e392145c91adda2922d1b"
+        },
+        {
+          "path": "docs/logo.png",
+          "bytes": 56286,
+          "sha256": "8fc694cca521d2621ac3df3868b1a0693f0f734e5740b016b0ff9e41493ca394"
+        },
+        {
+          "path": "docs/screenshot.png",
+          "bytes": 2776993,
+          "sha256": "3dcacbbca16a3f5b8501558f5a206b9b82510aaaeeb82c4cc9ba777137a54f9e"
+        },
+        {
+          "path": "entitlements.plist",
+          "bytes": 1157,
+          "sha256": "af8c3fd39dc621345a0e59ec1af91dd6ae05c21db36190a5041e2cd0495e66c2"
+        },
+        {
+          "path": "pixel_art_converter.py",
+          "bytes": 93786,
+          "sha256": "3f5437eb126f020c8e7607ca720f2dd57a7012b4437f0c095c2867e9f8ceb92d"
+        },
+        {
+          "path": "pixel_art_converter_qt.py",
+          "bytes": 55103,
+          "sha256": "f2d4e5b5dac7ca5404e1fa179107b836f10dc9e373fa3d33cd82311d25af40f5"
+        },
+        {
+          "path": "pixel_art_converter_qt.spec",
+          "bytes": 1443,
+          "sha256": "93d1ba73da87f47d5d27d1df12b613a67bbfd54152659f8bd7dc585a688e4f0d"
+        },
+        {
+          "path": "requirements.txt",
+          "bytes": 64,
+          "sha256": "611694673ceb24789bb6e496d904904ece8ff63846b5fb7ec0a381d27bd265b2"
+        },
+        {
+          "path": "setup.py",
+          "bytes": 3694,
+          "sha256": "2de729888d481d92bf7cc00ee0309e6c2f2403299f3f1894a389f230788104e2"
+        },
+        {
+          "path": "update.json",
+          "bytes": 982,
+          "sha256": "7baac92184fcaa22e9820171e0dec5e3f435ea2963b9fcf188a075b1f55d538c"
+        }
+      ]
+    },
+    {
+      "id": "tracy",
+      "destination": "dev_tools/external/mcdk-mcp-tracy",
+      "kind": "zip",
+      "repository": "https://github.com/lovelyXiaoQi/mcdk-mcp-tracy",
+      "revision": "be5e78616d49f3fbd0dbcc785fc07ee1419c844c",
+      "license": {
+        "spdx": "MIT",
+        "status": "verified",
+        "url": "https://github.com/lovelyXiaoQi/mcdk-mcp-tracy/blob/be5e78616d49f3fbd0dbcc785fc07ee1419c844c/LICENSE"
+      },
+      "auto_fetch": true,
+      "url": "https://codeload.github.com/lovelyXiaoQi/mcdk-mcp-tracy/zip/be5e78616d49f3fbd0dbcc785fc07ee1419c844c",
+      "archive_sha256": "f084b874d00a6dd956ab308858ad33202c7b155162025570e9700ac9167ecedf",
+      "download_bytes": 2691201,
+      "primary": "src/mcdk_mcp_tracy/__init__.py",
+      "files": [
+        {
+          "path": "LICENSE",
+          "bytes": 1070,
+          "sha256": "710e132db21e32347afef9801b7aded68955ffb07bd2cb3fefaaa5f191dd695d"
+        },
+        {
+          "path": "README.md",
+          "bytes": 12251,
+          "sha256": "723f80c94189ebe7bb93473850ca24cf42e26a1b220acff24551266ea4be2407"
+        },
+        {
+          "path": "bin/LICENSE.Tracy",
+          "bytes": 1618,
+          "sha256": "b04d971f616a03d75b51ae90bc1db6a3dd9ae195b68636d481539c008e013594"
+        },
+        {
+          "path": "bin/tracy-capture.exe",
+          "bytes": 8320512,
+          "sha256": "ca5f7e69bdf4194e14563c8ef9005187032b7a77c3ad464c01a507b2a1e6c659"
+        },
+        {
+          "path": "bin/tracy-csvexport.exe",
+          "bytes": 8228864,
+          "sha256": "67d7afed782bd84d8a2d4fa04f3d65062e7088bb54f3b7c90f628c3a97b1d144"
+        },
+        {
+          "path": "pyproject.toml",
+          "bytes": 645,
+          "sha256": "387b765e11185c3c931dd7e67b39eeeb9fb585bfe16e876fd226e2d6393e4bc8"
+        },
+        {
+          "path": "skills/mcdk-tracy-profiling/SKILL.md",
+          "bytes": 8556,
+          "sha256": "667af4a358ec428a3884ac684e60824a3a67be035ef01de5bedff16562533425"
+        },
+        {
+          "path": "skills/mcdk-tracy-profiling/references/advanced-practice.md",
+          "bytes": 8519,
+          "sha256": "b85a78fa901c57dcba899dfd12208a05e0a09c84768bc45d141b54f78bf462dd"
+        },
+        {
+          "path": "skills/mcdk-tracy-profiling/references/client-entity-practice.md",
+          "bytes": 5940,
+          "sha256": "cd527acdd2ba5e10794dd5254bbd5d607ff23e7331c3c4690c7f4f8a9c56a494"
+        },
+        {
+          "path": "skills/mcdk-tracy-profiling/references/general-practice.md",
+          "bytes": 4213,
+          "sha256": "c8e236771378bad66b8eb9e6bcafeb731ec0277a2db75be1d99c8688a66ab531"
+        },
+        {
+          "path": "skills/mcdk-tracy-profiling/references/render-assets-practice.md",
+          "bytes": 2780,
+          "sha256": "a721557dd4c937a13449e3cf20e850c9980e409281bfa1a2ef7427662f2c4b89"
+        },
+        {
+          "path": "skills/mcdk-tracy-profiling/references/render-measurement.md",
+          "bytes": 5567,
+          "sha256": "9472084b08485ba5ff25dbe3c4e33d8cfa4661d71c730f9fa452e7e2dcbb7150"
+        },
+        {
+          "path": "skills/mcdk-tracy-profiling/references/shader-practice.md",
+          "bytes": 6322,
+          "sha256": "55da556cc4d2a0e14c2a36438d48098fa2783ac9aa997a122e1e42087abdeb83"
+        },
+        {
+          "path": "skills/mcdk-tracy-profiling/references/ui-practice.md",
+          "bytes": 5359,
+          "sha256": "aebddc45143742965ed5a0ba1cc0c0be63d0d7ae253ea179efb2b9d3605df018"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/__init__.py",
+          "bytes": 526,
+          "sha256": "83db59778e56f2949c4f45e26532379d097a7528b235dd1ea25d0f393969e4aa"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/__main__.py",
+          "bytes": 1944,
+          "sha256": "11d8c73e1e8da26550c4fc6602e051e6a5b8b31deb2dfe9fff203c311270dbc2"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/analysis/__init__.py",
+          "bytes": 84,
+          "sha256": "92587870c4c9cfc52849f6a57bba6879e79f84123934ff66e788d0e88f8d97b5"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/analysis/diff.py",
+          "bytes": 3027,
+          "sha256": "142e53b2fb44ba04d926ae17667a746f718c3d7de2421032713af7ca6cf03b2f"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/analysis/store.py",
+          "bytes": 2372,
+          "sha256": "790a0496196d43bb824fb4d917f9acf407c7501ffb9540eb5815023dce972668"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/config.py",
+          "bytes": 4567,
+          "sha256": "1827085a44543972554d8d17f4b9874d2171b58e4f239ce460005c99888e448f"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/errors.py",
+          "bytes": 2031,
+          "sha256": "1bacdd2c4698de6d09dd638f508e3b857c00fb031d8624be3ab0527b6ad8bbc3"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/mcdk_client.py",
+          "bytes": 10573,
+          "sha256": "8b7ccb6e0f81426adfe57ff2da7fb14875c3acc3be428ad1f0394a4295692956"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/profiler/__init__.py",
+          "bytes": 58,
+          "sha256": "2288cd86fef7b9b0f0f3e0333941437ab6f3a9a901a4559464dbfe352c192e4f"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/profiler/execinject.py",
+          "bytes": 1062,
+          "sha256": "a1870e567ff8a80ea1f38e3abd4f56fbe14505562a6c6ca2998cafa47657a6fb"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/profiler/native.py",
+          "bytes": 14046,
+          "sha256": "89003732e9bfeeb02ca97c39100b12375506b27dc5dc3fb311978d5f173a9bc9"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/profiler/operations.py",
+          "bytes": 5128,
+          "sha256": "63bf4c100e229177e60f50a4a0e4fd7665ff3f9b4ffe4b920588d284ac8552aa"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/profiler/snippets.py",
+          "bytes": 3448,
+          "sha256": "ff92e2f36f92265e128fb833561671ac636608deba22e367e2bda0dbad3433a3"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/server.py",
+          "bytes": 1503,
+          "sha256": "ad61ebf9ec3a7341af983cf7d08acd06cc9a36915a7bc7f5f6c5f827ce56bb4b"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/state.py",
+          "bytes": 507,
+          "sha256": "9ad91bad66ccd7c1f5750530a59c03049f998587a28d0ce1c6838dd08f51f7cf"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/tools/__init__.py",
+          "bytes": 519,
+          "sha256": "eb70a3c39bf5b88e781b6b8901ea626aa8ccae0df2cfdabc8d3cbfd5decc6ae7"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/tools/_common.py",
+          "bytes": 1088,
+          "sha256": "4e05ed831311e1607ec9f3e843e686d6e8de4717538e464fd4ffb33e8189d13e"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/tools/register_jankfps.py",
+          "bytes": 1735,
+          "sha256": "97ef5f0a801b4a211c8032cd6fe62f9f9631774367569183508dd9e7be8719e2"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/tools/register_native.py",
+          "bytes": 3906,
+          "sha256": "ee569ff41a09f006a27488809bab2a1958c53ab19614d515b92c893d55e21350"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/tools/register_query.py",
+          "bytes": 3614,
+          "sha256": "6aee89c2cf34f185543489328eb810a0aca988cdbbbe07c860ea31a2dc9a3253"
+        },
+        {
+          "path": "src/mcdk_mcp_tracy/tools/register_status.py",
+          "bytes": 3802,
+          "sha256": "3a71276fc8c1b4a6fb69c525caad4d43e357c3e85af5e17999803efdc4df70cf"
+        },
+        {
+          "path": "tests/test_config.py",
+          "bytes": 2618,
+          "sha256": "e4c82dbcd9bb8f319003c8531e0291d4d67c6deb8c9a3338c994355f297bde12"
+        },
+        {
+          "path": "tests/test_diff.py",
+          "bytes": 2025,
+          "sha256": "5c78f30d9aaebea307aa32ffea0fb4f113a26567a40d3805b1387a340146b8a5"
+        },
+        {
+          "path": "tests/test_native.py",
+          "bytes": 6639,
+          "sha256": "ceab258e5a216d85f5d188af706639e28570e483e310ecfc6f4fd6caffebdf92"
+        },
+        {
+          "path": "tests/test_operations.py",
+          "bytes": 3267,
+          "sha256": "a6a6f8eb078b9d04164e5d2e09528a933cff6fac5b426cc81ff238ca9b915a4f"
+        },
+        {
+          "path": "tests/test_parse.py",
+          "bytes": 1006,
+          "sha256": "7ad389f87b2f0bda52e35ff241486af94803e0fda4b849ae4a18344b91f622af"
+        },
+        {
+          "path": "tests/test_snippets.py",
+          "bytes": 1890,
+          "sha256": "b1dd675f4b646e4fa9cdf1b7a869d64bad4ea1d8b1132e68054dd23aa9fbd7bb"
+        },
+        {
+          "path": "tests/test_store.py",
+          "bytes": 1113,
+          "sha256": "9fe7b9065cb39cde1824f8ae43cf1de0d24405384f0e670448631bfd658600fa"
+        }
+      ],
+      "additional_downloads": [
+        {
+          "path": "bin/LICENSE.Tracy",
+          "bytes": 1618,
+          "sha256": "b04d971f616a03d75b51ae90bc1db6a3dd9ae195b68636d481539c008e013594",
+          "url": "https://raw.githubusercontent.com/wolfpld/tracy/v0.11.1/LICENSE"
+        }
+      ],
+      "additional_licenses": [
+        {
+          "spdx": "BSD-3-Clause",
+          "scope": "native Tracy CLI",
+          "url": "https://raw.githubusercontent.com/wolfpld/tracy/v0.11.1/LICENSE"
+        }
+      ]
+    }
+  ],
+  "note": "External payloads are fetched locally and are not distributed with this template. A verified license is not a game or GUI acceptance result."
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "NetEase ModSDK Core"
+  short_description: "Build secure client-server MCStudio components"
+  default_prompt: "Use $netease-modsdk-core to implement this component with verified NetEase ModSDK APIs."

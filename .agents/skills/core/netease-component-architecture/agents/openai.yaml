@@ -1,0 +1,4 @@
+interface:
+  display_name: "NetEase Component Architecture"
+  short_description: "Organize multi-component MCStudio projects safely"
+  default_prompt: "Use $netease-component-architecture to classify and design a new project component."

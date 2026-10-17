@@ -1,0 +1,17 @@
+{
+  "description": "Client-neutral connection information. Replace <WORKSPACE>; adapt to the actual MCP client format.",
+  "modpc": {
+    "transport": "streamable-http",
+    "url": "http://127.0.0.1:3002/mcp/",
+    "startup_script": "<WORKSPACE>/dev_tools/start_modpc_mcp.ps1"
+  },
+  "tracy": {
+    "transport": "stdio",
+    "command": "powershell",
+    "args": [
+      "-NoProfile",
+      "-File",
+      "<WORKSPACE>/dev_tools/start_tracy_mcp.ps1"
+    ]
+  }
+}

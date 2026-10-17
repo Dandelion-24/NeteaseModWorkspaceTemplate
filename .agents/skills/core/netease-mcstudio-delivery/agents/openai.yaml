@@ -1,0 +1,6 @@
+interface:
+  display_name: "网易 MCStudio 交付检查"
+  short_description: "按目标用途打包并核验 MCStudio 导入包与 Add-on 投稿包"
+  default_prompt: "Use $netease-mcstudio-delivery to prepare or verify the MCStudio import or developer-platform Add-on package for the declared destination, with separate static, game and publication evidence."
+policy:
+  allow_implicit_invocation: true

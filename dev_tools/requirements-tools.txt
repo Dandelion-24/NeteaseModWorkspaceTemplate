@@ -1,0 +1,4 @@
+# Host tools only. Rebuild the environment on each machine.
+mcp[cli]>=1.2,<2
+pytest>=8,<10
+pylint>=3,<5

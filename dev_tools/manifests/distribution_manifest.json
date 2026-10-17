@@ -1,0 +1,331 @@
+{
+  "schema_version": 2,
+  "profile": "source",
+  "files": [
+    {
+      "path": ".agents/skills/core/netease-component-architecture/SKILL.md",
+      "bytes": 2486,
+      "sha256": "f1a3b78f33c5e9d615d8b082f6c3dfae6a9ee381ce7e7a570b0b68c6ae4c847d"
+    },
+    {
+      "path": ".agents/skills/core/netease-component-architecture/agents/openai.yaml",
+      "bytes": 237,
+      "sha256": "39b1baf82da7d9ecebc8e3c59ead0539295e020eeded224480e7f0d9fcd3ee1c"
+    },
+    {
+      "path": ".agents/skills/core/netease-hud-launcher-button/SKILL.md",
+      "bytes": 2108,
+      "sha256": "844803c1d6020a0b7613404f9c4d3a90c823cb292acc5923b9f798e63d3fa3ae"
+    },
+    {
+      "path": ".agents/skills/core/netease-log-review/SKILL.md",
+      "bytes": 2129,
+      "sha256": "f660f7c1ea59b194214fbb51079830bdfb3c63741769450533a9be7e9f1ad8e5"
+    },
+    {
+      "path": ".agents/skills/core/netease-mcstudio-delivery/SKILL.md",
+      "bytes": 3244,
+      "sha256": "9e450c4625ade8ca6d435f58c577633e61d763e458bfd4f3f9ef381afcf00a99"
+    },
+    {
+      "path": ".agents/skills/core/netease-mcstudio-delivery/agents/openai.yaml",
+      "bytes": 405,
+      "sha256": "2c5516d51d1c83d344e079843fe80a51f32216a33a412a5218b659cada3e808a"
+    },
+    {
+      "path": ".agents/skills/core/netease-mod-direction-planner/SKILL.md",
+      "bytes": 5166,
+      "sha256": "ed964eb1c019694958d7171d76bbd0dce41fa2fbc9fe3be4406e9c9b2107f578"
+    },
+    {
+      "path": ".agents/skills/core/netease-modsdk-core/SKILL.md",
+      "bytes": 4517,
+      "sha256": "f914d55ddcf6e8331db0b175a7ab60647d6d42102439051054439d7f8ad9b82c"
+    },
+    {
+      "path": ".agents/skills/core/netease-modsdk-core/agents/openai.yaml",
+      "bytes": 227,
+      "sha256": "59caee00586d616e7493ad75c04ed115bc67123c41231c404ec3c4520e9c23ab"
+    },
+    {
+      "path": ".agents/skills/core/netease-modsdk-core/references/api-contract-checklist.md",
+      "bytes": 3120,
+      "sha256": "bbd254a2b4e79bed127c5d334c384e32728dd767493103a5a589cb857c0784b7"
+    },
+    {
+      "path": ".agents/skills/core/netease-project-validator/SKILL.md",
+      "bytes": 3067,
+      "sha256": "08ed1c8dfbd353b4ec1ee8a78a03102e7b230861ecfb8ae13ef243ce01e0cc2e"
+    },
+    {
+      "path": ".agents/skills/core/netease-project-validator/agents/openai.yaml",
+      "bytes": 245,
+      "sha256": "0e5e4903395c2ad57277aaf03f4d7e970a346d3cc947ce11918e0ba82541264a"
+    },
+    {
+      "path": ".agents/skills/core/netease-visual-assets/SKILL.md",
+      "bytes": 3360,
+      "sha256": "b2b7afcde13ac6dab6588ed85454f0ecaac6abb266b02e29368ee7032af6462e"
+    },
+    {
+      "path": ".agents/skills/core/netease-visual-assets/agents/openai.yaml",
+      "bytes": 388,
+      "sha256": "68616b9da1f3fc46801ee0a96d5d62ffc5e39e3ca47f81848247883794724f50"
+    },
+    {
+      "path": ".agents/skills/core/netease-visual-assets/references/ui-ux-quality.md",
+      "bytes": 5701,
+      "sha256": "b144c5eb0f0b4cf2793e1ec843c36d8b8279dabc5d118172092b63e5311d7ff9"
+    },
+    {
+      "path": ".agents/skills/core/netease-workspace-audit/SKILL.md",
+      "bytes": 3245,
+      "sha256": "b55b69e500a92b7f71a17b0bd6293b3669f7fe4444ad71d5c470845b4499904a"
+    },
+    {
+      "path": ".agents/skills/core/netease-workspace-audit/audit_workspace.py",
+      "bytes": 25697,
+      "sha256": "f58078a2e55c4e57b5f3ff5250b9cf275d6fa4cdee6ccdf061273c599ca9734b"
+    },
+    {
+      "path": ".agents/skills/core/netease-workspace-audit/test_audit_workspace.py",
+      "bytes": 3713,
+      "sha256": "ee5cbf0e001ad545d4a3366448a95e971ad84d6917b42d34e190545d309d4839"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 596,
+      "sha256": "6310d7ccb43d78de1362c55ebe4d490d94f35fab38ac589b2bc9444dd1598031"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 18142,
+      "sha256": "edc6f8ad9d812ca5ae61096f912a6a049c3bab6c38ff953e4fd54fe458670cf9"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1069,
+      "sha256": "3d0da34e33d3d804d982dd07e8fe2c672706a2b8e62925d7e538aecceff06e0d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4000,
+      "sha256": "a21e7b78e88a384544e757d3c866eccecb58339bead12ec74c9fb2d85d477f74"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1412,
+      "sha256": "36fd6535af3e75e4be11e8906dbff040df47fc270ed39bf70d5b226299819cb4"
+    },
+    {
+      "path": "WORKSPACE.md",
+      "bytes": 21100,
+      "sha256": "edc4a0ed6e8d8934b9cfd7a6026051de0aee5331cf40a080eb1b7b4816eb358a"
+    },
+    {
+      "path": "components/README.md",
+      "bytes": 3564,
+      "sha256": "650609a11a0419236f31f3e21d0251e843c25d4eaa7ca59d14c35abfad8a4280"
+    },
+    {
+      "path": "components/catalog.json",
+      "bytes": 92,
+      "sha256": "70a64c8cd64fa4792864317050fed75e8ec4dad4a63ea88ebee35bf9e16f6de0"
+    },
+    {
+      "path": "dev_tools/OFFICIAL_SETUP.md",
+      "bytes": 3498,
+      "sha256": "fb379e0ccc3520cf2d35797e8f0ae24e57e77893c15f6cf70843e1770976e0bc"
+    },
+    {
+      "path": "dev_tools/README.md",
+      "bytes": 5800,
+      "sha256": "716b6e38dda1616a22019880068c59bd5a2f04d774d18eb2c69d591358d33fb7"
+    },
+    {
+      "path": "dev_tools/TOOL_INDEX.md",
+      "bytes": 1354,
+      "sha256": "ded8a9e3a00beec452522ce70b9f460d096abd4a960adb759b2891626ecb827a"
+    },
+    {
+      "path": "dev_tools/bootstrap_workspace.ps1",
+      "bytes": 4781,
+      "sha256": "3dd3d70d755020688f773ca47de0e42b93f43e0153c69ca9dac198c2221e8576"
+    },
+    {
+      "path": "dev_tools/check_local_tools.py",
+      "bytes": 4663,
+      "sha256": "b94eef77d1cf545f4141b90bd890290bdd669c10247adbbe88f385adc89d5261"
+    },
+    {
+      "path": "dev_tools/check_pylint_errors.py",
+      "bytes": 5252,
+      "sha256": "2ec68ee820994eba9cdd6aa5d5dc70955176f6755e21abcf333f684c7e27ad79"
+    },
+    {
+      "path": "dev_tools/config/mcp_endpoints.example.json",
+      "bytes": 461,
+      "sha256": "84478e32c2a3df1a3fdf2bcbb718b137bb92ed60f84c6c54742adc1ee1fc17ff"
+    },
+    {
+      "path": "dev_tools/export_template.py",
+      "bytes": 3190,
+      "sha256": "566690623f5542a9507f1b705b97e14bb45a0afcc1fc390edd541f7d69bfdc79"
+    },
+    {
+      "path": "dev_tools/manifests/resources.json",
+      "bytes": 23390,
+      "sha256": "14c8286433dfb2d44e30324890227d198f923a50ae98bd092889e93e9a6ccbf1"
+    },
+    {
+      "path": "dev_tools/official_docs.py",
+      "bytes": 12161,
+      "sha256": "eac46132ce846233113f3e2c8a8dd37451c62e3fa26553ded94c1390bf4ec51a"
+    },
+    {
+      "path": "dev_tools/pixel_art_converter/README.md",
+      "bytes": 917,
+      "sha256": "5fb7ebb3563d8de16639c127ae4569e1b1589116e2a77c79953d87d924efd7c6"
+    },
+    {
+      "path": "dev_tools/pixel_art_converter/convert.py",
+      "bytes": 1504,
+      "sha256": "9d61b2941a99c3fe8165e71c9746c0769465e38d08f88e86b583506d4dfcb2b6"
+    },
+    {
+      "path": "dev_tools/pixel_art_converter/requirements.txt",
+      "bytes": 48,
+      "sha256": "9910efa1a5d0e34e56ee513f48726d7297d6d9c9e367800f4e2db2069cb8e8ea"
+    },
+    {
+      "path": "dev_tools/prepare_workspace.py",
+      "bytes": 6332,
+      "sha256": "9eb3e892f09c95f686c400f5d8704eb87029a65e76892d369513d31f50c54267"
+    },
+    {
+      "path": "dev_tools/pylint_repro_min.py",
+      "bytes": 955,
+      "sha256": "01dff9fab215ccd0a391d76e320ac39c082c01baf0c6eeb90575b38770a49ce2"
+    },
+    {
+      "path": "dev_tools/reports/RELEASE_CHECK.json",
+      "bytes": 1940,
+      "sha256": "a06afa32e4162fec7eda4fb66de16740de5adfbd89f9b0e517336b12799ab2d4"
+    },
+    {
+      "path": "dev_tools/requirements-tools.txt",
+      "bytes": 104,
+      "sha256": "2fcf97d7625afbbf80057f9d4d5814597978e3a0fdd0ad73acac1ea61762607c"
+    },
+    {
+      "path": "dev_tools/resolve_python.ps1",
+      "bytes": 674,
+      "sha256": "27f05e38c75092b1284d27e5d543e3ad953eabfc08b4a6ed455848bf3df46284"
+    },
+    {
+      "path": "dev_tools/resource_manager.py",
+      "bytes": 22055,
+      "sha256": "cf838ee8c665253575b5f26263ba08c94d9f5d3e4ffa99ee740524f877281960"
+    },
+    {
+      "path": "dev_tools/setup_python.ps1",
+      "bytes": 1969,
+      "sha256": "4fa46638c7f544c8de5c904dbc385c77ecf2d27b5c9dbd1f7b5b3d6b77d769c1"
+    },
+    {
+      "path": "dev_tools/start_blockbench.ps1",
+      "bytes": 566,
+      "sha256": "a43ff7023bd109664ed56958ed7d0b798022d433c8dd4638bf474aa9879d54fc"
+    },
+    {
+      "path": "dev_tools/start_modpc_mcp.ps1",
+      "bytes": 497,
+      "sha256": "b2af5f5992105f1f98697d72972a84bdb06563026785bc436557b517e2c585ca"
+    },
+    {
+      "path": "dev_tools/start_tracy_mcp.ps1",
+      "bytes": 509,
+      "sha256": "7b1c8b212c3f06bff32be84a683c6d7a5d9b8323905e6d0ac296b5c2e7d13642"
+    },
+    {
+      "path": "dev_tools/sync_netease_docs_from_web.py",
+      "bytes": 7366,
+      "sha256": "fd5d503b8234dbba229d1541fe0677384e0ef4f29d49bab3af12665ff217b65f"
+    },
+    {
+      "path": "dev_tools/tests/test_maintenance_tools.py",
+      "bytes": 17055,
+      "sha256": "236c24f52f9570aad18845f0ad4081ad235429819e5f5c24eba1e2b80d93e662"
+    },
+    {
+      "path": "dev_tools/tests/test_official_acquisition.py",
+      "bytes": 8876,
+      "sha256": "fc19f26aea6f94de94ebbb0c9198679228d521161b9ae2d0fbf4c4535e238aa5"
+    },
+    {
+      "path": "dev_tools/tests/test_release_review.py",
+      "bytes": 10257,
+      "sha256": "64d3ba9b462118e60a89853bca608bd5c4cf99a58875f955cb1750e2aceb056f"
+    },
+    {
+      "path": "dev_tools/verify_local_environment.py",
+      "bytes": 4754,
+      "sha256": "3161e6cf6b5595846b5629b10f2482a8b81d719f213801f66e65b6b97d111870"
+    },
+    {
+      "path": "docs/PLATFORM_BASELINE.json",
+      "bytes": 530,
+      "sha256": "b13a15e42ebac38a18bc09dab20483c7b0882a2e71b642b8887c5792271ca646"
+    },
+    {
+      "path": "docs/PLATFORM_LESSONS.md",
+      "bytes": 6535,
+      "sha256": "e83808a463897bcb684c4118973aea91ca603fb68f4518683b7a2413d4f0d2cb"
+    },
+    {
+      "path": "docs/PROBE_METHOD.md",
+      "bytes": 4277,
+      "sha256": "a4f3eff75f07a0895e326207d97d46934b0954191ec3f2c22bb45378bf3184f0"
+    },
+    {
+      "path": "docs/README.md",
+      "bytes": 5671,
+      "sha256": "333141f620a0e82a88e58c5e6906ba6c806944222fda3094a161f6392c316640"
+    },
+    {
+      "path": "docs/SOURCES.json",
+      "bytes": 3720,
+      "sha256": "d1441bb614933d3ff1c40f793f5dfe2c36f99ab00e2480c2891f6f5ab2b81af0"
+    },
+    {
+      "path": "docs/SYNC_STATE.md",
+      "bytes": 871,
+      "sha256": "0fe779155e7d514b0f81fd61c3b6fb21cf699ae9c36f4b8aebe29d57e4872b48"
+    },
+    {
+      "path": "docs/UPSTREAM_SOURCES.md",
+      "bytes": 952,
+      "sha256": "781f0bb99bac03db36c4a85ec3cafa7d226db0f6ce1fdff6789af1836348e4ca"
+    },
+    {
+      "path": "logs/README.md",
+      "bytes": 942,
+      "sha256": "886aa4c35ad61220a794929a74ae461ed514d9116b93011d770574b002242c72"
+    },
+    {
+      "path": "mcstudio_project/README.md",
+      "bytes": 2179,
+      "sha256": "019e29cf77669d97ac11def9d42770fbe2c5fc87a6601853bb456488ab52a71a"
+    },
+    {
+      "path": "source_structures/README.md",
+      "bytes": 1051,
+      "sha256": "fbfd417febcef83c7575162e3e7eacca1d64f21669e81d33597c9c2543db7a3b"
+    },
+    {
+      "path": "tmp/README.md",
+      "bytes": 757,
+      "sha256": "1ad17ae9468b1b36f955579323a43d37499e60718585a38ea99355a3f12da3a0"
+    }
+  ]
+}

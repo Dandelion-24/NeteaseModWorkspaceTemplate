@@ -1,0 +1,6 @@
+interface:
+  display_name: "网易视觉资产"
+  short_description: "制作并验证模型、贴图、图标与 JSON UI 美术资产"
+  default_prompt: "Use $netease-visual-assets to create or review Minecraft China Edition visual assets against local documentation and cross-device quality requirements, following the chosen visual direction."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "checked_on": "2026-10-17",
+  "result": "PASS",
+  "scope": "Public template source, skill routing and deterministic preparation-flow checks. Local resource installation and game acceptance are separate.",
+  "distribution": {
+    "public_files": 66,
+    "skills": 9,
+    "official_document_bodies": 0,
+    "third_party_payloads": 0,
+    "component_projects": 0,
+    "component_catalog_entries": 0
+  },
+  "platform": {
+    "baseline_record": "docs/PLATFORM_BASELINE.json",
+    "modsdk_version": "3.9",
+    "official_formal_navigation_observed": "3.9",
+    "update_policy": "follow-verified-official-formal-releases"
+  },
+  "checks": {
+    "maintenance_regressions_passed": 59,
+    "workspace_auditor_regressions_passed": 13,
+    "skill_formats_passed": 9,
+    "skill_metadata_files": 5,
+    "python_scripts_parsed": 15,
+    "powershell_scripts_parsed": 6,
+    "local_markdown_links_checked": 63,
+    "local_markdown_link_errors": 0,
+    "public_source_integrity": "PASS",
+    "archive_crc_and_file_hashes": "PASS",
+    "git_source_scope": "PASS",
+    "private_content_scan": "PASS",
+    "qq_email_in_license": false,
+    "windows_powershell_progress_handling": "PASS in a local test process",
+    "failure_report_and_version_update_paths": "PASS"
+  },
+  "readiness": {
+    "authoritative_source": "dev_tools/local_state/FIRST_USE_REPORT.json and prepare_workspace.py --status --task all",
+    "public_report_is_not_an_installation_receipt": true,
+    "mcp_client_configured": false,
+    "gui_plugins_loaded": false,
+    "game_tested": false
+  },
+  "limits": [
+    "Source and resource readiness do not establish API contracts, GUI/device behavior or game acceptance.",
+    "Formal navigation and file metadata are update signals; inspect the official release and matching development package before changing the default target.",
+    "Tests do not replace actual third-party installation or platform review."
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "NetEase Project Validator"
+  short_description: "Validate component projects before MCStudio testing"
+  default_prompt: "Use $netease-project-validator to statically validate this component and its MCStudio project."

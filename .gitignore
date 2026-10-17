@@ -1,0 +1,31 @@
+# Local official texts and import state are never part of the public template.
+/docs/mcdocs/
+/docs/mcguide/
+/docs/mconline/
+/docs/LOCAL_MANIFEST.json
+# Downloaded tools, environments, backups and local state.
+/dev_tools/external/
+/dev_tools/python_env/
+/dev_tools/local_state/
+/dev_tools/backups/
+/dev_tools/pixel_art_converter/dependencies/
+/dev_tools/reports/*
+!/dev_tools/reports/RELEASE_CHECK.json
+/tmp/*
+!/tmp/README.md
+/logs/*
+!/logs/README.md
+**/deliverables/*.zip
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+.DS_Store
+Thumbs.db
+*.swp
+.codex/
+.workbuddy/
+.env
+.env.*
+!.env.example

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "channel": "formal",
+  "modsdk_version": "3.9",
+  "bedrock_version": [1, 21, 120],
+  "game_python_version": "2.7",
+  "manifest_format_version": 1,
+  "checked_on": "2026-10-17",
+  "official_release_notes": "https://mc.163.com/dev/mcmanual/mc-dev/mcdocs/1-ModAPI/%E6%9B%B4%E6%96%B0%E4%BF%A1%E6%81%AF/3.9.html",
+  "update_policy": "follow-verified-official-formal-releases",
+  "scope": "Default target for new components; existing component compatibility and runtime evidence are maintained separately."
+}
